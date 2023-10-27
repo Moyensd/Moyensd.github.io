@@ -3,7 +3,7 @@
 const config = {
   github: {
     username: 'Moyensd', // Your GitHub org/user name. (Required)
-    sortBy: 'stars', // stars | updated
+    sortBy: 'updated', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
@@ -30,7 +30,7 @@ const config = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://www.dropbox.com/scl/fi/a96lvcqpyth19gbt1nto4/KSuzuki_Resume.docx?rlkey=tfb4rfvtllzb5w762k02tud36&dl=0', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
