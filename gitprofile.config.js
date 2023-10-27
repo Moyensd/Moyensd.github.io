@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    linkedin: 'kiyomichi-suzuki',
+    linkedin: 'kiyomichi-suzuki-74b877257',
     twitter: '',
     mastodon: '',
     facebook: '',
@@ -20,7 +20,7 @@ const config = {
     dribbble: '',
     behance: '',
     medium: '',
-    dev: '',
+    leetcode: 'https://leetcode.com/FrostIce/',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
