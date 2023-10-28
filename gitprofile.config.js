@@ -4,7 +4,7 @@ const config = {
   github: {
     username: 'Moyensd', // Your GitHub org/user name. (Required)
     sortBy: 'updated', // stars | updated
-    limit: 10, // How many projects to display.
+    limit: 8, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
       projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
@@ -24,8 +24,8 @@ const config = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: '',
-    phone: '',
+    leetcode: 'https://leetcode.com/FrostIce/',
+    phone: '(310)291-9881',
     email: 'kmchsuzuki125@gmail.com',
   },
   resume: {
@@ -57,11 +57,11 @@ const config = {
       companyLink: 'https://www.westcoastdental.com/',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Express Line Corp',
+      position: 'Data Entry',
+      from: 'March 2021',
+      to: 'Nov 2022',
+      companyLink: 'https://elicsfo.com/',
     },
   ],
   /* certifications: [
