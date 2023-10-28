@@ -51,7 +51,7 @@ const config = {
   experiences: [
     {
       company: 'West Coast Dental',
-      position: '',
+      position: 'RCM Specialist',
       from: 'April 2023',
       to: 'Present',
       companyLink: 'https://www.westcoastdental.com/',
